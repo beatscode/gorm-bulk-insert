@@ -1,4 +1,4 @@
-module github.com/honcker/gorm-bulk-insert
+module github.com/beatscode/gorm-bulk-insert
 
 go 1.12
 
